@@ -1,5 +1,8 @@
 ## Hi there 👋
+Samuel Johnson
+IT and Cybersecurity Major
 
+I'm working on getting syllabus quizzes done right now.
 <!--
 **sjohnson2005/sjohnson2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
